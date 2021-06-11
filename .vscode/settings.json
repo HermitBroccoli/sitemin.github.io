@@ -1,0 +1,26 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "setting.json"
+            ],
+            "url": "/setting.json"
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": [],
+    "liveSassCompile.settings.includeItems": [],
+    "liveSassCompile.settings.generateMap": true,
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css/"
+        }
+    ],
+    "liveSassCompile.settings.excludeList": [
+    
+        "**/node_modules/**",
+        ".vscode/**"
+    ]
+}
